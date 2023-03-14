@@ -15,7 +15,7 @@ Awesome 3D Lane Detection Paper List.
 ## 2020       
  **Pub.** | **Title** | **Links** 
  :-: | :-  | :-: 
- **ECCV** | Gen-LaneNet: A Generalized and Scalable Approach for 3D Lane Detection github Datasets | [Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660664.pdf)/[Code](https://github.com/yuliangguo/Pytorch_Generalized_3D_Lane_Detection)
+ **ECCV** | Gen-LaneNet: A Generalized and Scalable Approach for 3D Lane Detection | [Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660664.pdf)/[Code](https://github.com/yuliangguo/Pytorch_Generalized_3D_Lane_Detection)
  **arxiv** | 3D-LaneNet+: Anchor Free Lane Detection using a Semi-Local Representation | [Paper](https://arxiv.org/pdf/2011.01535.pdf)/Code
  **arxiv** | Semi-Local 3D Lane Detection and Uncertainty Estimation | [Paper](https://arxiv.org/pdf/2003.05257.pdf)/Code
 
