@@ -4,6 +4,7 @@ Awesome 3D Lane Detection Paper List.
 ## 2023       
  **Pub.** | **Title** | **Links** 
  :-: | :-  | :-: 
+ **ICCV** | LATR: 3D Lane Detection from Monocular Images with Transformer | [Paper](https://arxiv.org/pdf/2308.04583.pdf)/[Code](https://github.com/JMoonr/LATR)
  **CVPR** | BEV-LaneDet: a Simple and Effective 3D Lane Detection Baseline | [Paper](https://arxiv.org/pdf/2210.06006.pdf)/[Code](https://github.com/gigo-team/bev_lane_det)
  **CVPR** | Anchor3DLane: Learning to Regress 3D Anchors for Monocular 3D Lane Detection | [Paper](https://arxiv.org/abs/2301.02371)/[Code](https://github.com/tusen-ai/Anchor3DLane)
  **arxiv** | An Efficient Transformer for Simultaneous Learning of BEV and Lane Representations in 3D Lane Detection | [Paper](https://arxiv.org/pdf/2306.04927.pdf)/Code
