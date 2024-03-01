@@ -1,6 +1,10 @@
 # Awesome-3D-Lane-Detection
 Awesome 3D Lane Detection Paper List.
 
+## 2024       
+ **Pub.** | **Title** | **Links** 
+ :-: | :-  | :-: 
+ **arxiv** | CurveFormer++: 3D Lane Detection by Curve Propagation with Temporal Curve Queries and Attention | [Paper](https://arxiv.org/pdf/2402.06423.pdf)/Code
 ## 2023       
  **Pub.** | **Title** | **Links** 
  :-: | :-  | :-: 
