@@ -1,6 +1,10 @@
 # Awesome-3D-Lane-Detection
 Awesome 3D Lane Detection Paper List.
 
+## 2025       
+ **Pub.** | **Title** | **Links** 
+ :-: | :-  | :-: 
+ **WACV** | HeightLane: BEV Heightmap guided 3D Lane Detection | [Paper](https://openaccess.thecvf.com/content/WACV2025/papers/Park_HeightLane_BEV_Heightmap_Guided_3D_Lane_Detection_WACV_2025_paper.pdf)/Code
 ## 2024       
  **Pub.** | **Title** | **Links** 
  :-: | :-  | :-: 
